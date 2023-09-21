@@ -1,0 +1,1 @@
+RPI_USE_U_BOOT = "1"
